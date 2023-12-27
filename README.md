@@ -9,13 +9,12 @@ If you want to run it on your system, then follow certain steps->
 
 These screenshots highlight our EV Charger Locator's user-friendly interface, displaying Google-authenticated access, login/logout options, and the 'Contact Us' section. They showcase the responsive design and interactive maps powered by HTML5, CSS, JavaScript, Node.js, MongoDB, Leaflet.js, and GeoJSON. Explore our informative blog section for guidance on EV charger usage and insights into the future of electric vehicles.
 
-
-![Screenshot 2023-12-27 141218](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/cccf2231-8ef7-4a46-88da-bbd83a5a09ab)
-![Screenshot 2023-12-27 141154](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/8a8c4693-b941-478b-bb40-9a9d6bfea523)
-![Screenshot 2023-12-27 141128](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/c904a4d8-3dd6-46cb-901a-9c7cdc141445)
-![Screenshot 2023-12-27 141112](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/6989989e-aef1-4218-aa28-fa3835abadf5)
-![Screenshot 2023-12-27 141048](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/f34d4bfa-86e0-4a74-be69-96d070d31540)
-![Screenshot 2023-12-27 141033](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/f1288991-ca7a-42d9-ab33-99bf6c8e0e25)
-![Screenshot 2023-12-27 141002](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/bc88f012-8e3f-45df-b49b-b9fc70e1deb0)
-![Screenshot 2023-12-27 140849](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/02121ee8-b6ba-4f80-81be-3e676e182364)
-![Screenshot 2023-12-27 140810](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/11d51491-4970-42f6-901b-2e64aba9f2b6)
+![Screenshot 2023-12-27 140810](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/d49c941e-d36e-42af-9b0a-cd8836886245)
+![Screenshot 2023-12-27 140849](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/49ba200e-d699-4b79-9cfc-8664c8366aa8)
+![Screenshot 2023-12-27 141002](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/8cd7e0a5-04ed-4cea-bd13-3083cfa0db35)
+![Screenshot 2023-12-27 141033](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/28f4c883-8d13-47bd-bc6c-a2d9bf6a74a0)
+![Screenshot 2023-12-27 141048](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/08bbcc86-6bd8-4a92-8c97-e12fe0f2f41e)
+![Screenshot 2023-12-27 141112](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/857ca7d8-077e-4280-be9f-9ef4eae54a0d)
+![Screenshot 2023-12-27 141128](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/bbb8d50a-7d60-4919-9857-5ead4d796b98)
+![Screenshot 2023-12-27 141154](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/3ca17a2b-ef05-45a8-a5f1-39acdd2100d1)
+![Screenshot 2023-12-27 141218](https://github.com/Nikhil2817/EV-Charging-Station/assets/115662649/698ad573-7754-49f8-af67-e0a80c6c4d14)
