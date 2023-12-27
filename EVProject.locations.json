@@ -1,0 +1,653 @@
+[{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3510"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "58XG+3QM, Stadium Rd, Jawahar Nagar, Dharamshala, Chelian, Himachal Pradesh 176215, India",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.1977132,76.1827183"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3511"
+  },
+  "Name": "Zevpoint Charging Station",
+  "Location": "689Q+JG9, Tahu, Himachal Pradesh 176215, India",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.1977132,76.1827183"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3512"
+  },
+  "Name": "Okaya Charging Station",
+  "Location": "Himachal Pradesh Cricket Association, ITI-Stadium Rd, Jawahar Nagar, Dharamshala, Chelian, Himachal Pradesh 176215, India",
+  "ChargingDetails": "Unknown",
+  "Coordinates": "32.1967712,76.3242323,560",
+  "Network": "Unknown",
+  "NumberofConnectors": "Unknown",
+  "connectorType": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3513"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "F784+QRR, Una, Himachal Pradesh 174303, India",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.467084,76.2384149,2259"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3514"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "7VM2+49R, Jassur, Himachal Pradesh 176201, India",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.8744122,75.394334,143941"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3515"
+  },
+  "Name": "Pratishtha Automobiles",
+  "Location": "Kangra, Himachal Pradesh",
+  "ChargingDetails": "16 Amp Socket for 2 wheelers, 3 wheelers, and 4 wheelers",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "Coordinates": "32.0594989,76.5043861,15"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3516"
+  },
+  "Name": "Bolt.Earth Charging Station",
+  "Location": "2HR9+X9G, near HP Petrol Pump, Andreta, Himachal Pradesh 176103",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.2477967,75.4801941"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3517"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "GVCP+W9V, Sundar Nagar, Himachal Pradesh 175019",
+  "Coordintes": "Charge Zone",
+  "ChargingDetails": "31.4834295,76.0947418",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3518"
+  },
+  "Name": "Electric Substation Shana",
+  "Location": "94Q8+FWH, Pangna, Himachal Pradesh 175046",
+  "Coordintes": "31.3888129,74.8103714",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3519"
+  },
+  "Name": "EarthtronEV Charging Station",
+  "Location": "VXHJ+MF8, Kimughat, Sari Road, Kasauli, Himachal Pradesh",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.3888129,74.8103714"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351a"
+  },
+  "Name": "E-Fill Charging Station",
+  "Location": "454H+P3R, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.3888129,74.8103714"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351b"
+  },
+  "Name": "Zevpoint Charging Station",
+  "Location": "4793+H3V, Purani Koti, Himachal Pradesh 171019",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.3888129,74.8103714"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351c"
+  },
+  "Name": "EV COSMOS Charging Station",
+  "Location": "The Orchid Hotel, Cemetery, Shanan, Shimla, Himachal Pradesh 171006",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.1631656,76.8881606"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351d"
+  },
+  "Name": "ZEVpoint Charging Station",
+  "Location": "34PQ+HMP, Chakkar, Shimla, Himachal Pradesh 171004",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.1631656,76.8881606"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351e"
+  },
+  "Name": "ZEVpoint Charging Station",
+  "Location": "49FF+5W6, Hotel Exotica, Theog, near New PWD Rest House, Shimla, Himachal Pradesh 171201",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.1225444,77.3727339"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b351f"
+  },
+  "Name": "ZEVpoint Charging Station",
+  "Location": "VXHJ+MF8, Kimughat, Sari Road, Kasauli, Himachal Pradesh",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "30.8790969,75.8276367"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3520"
+  },
+  "Name": "Zevpoint Charging Station",
+  "Location": "R3R5+4M8, Mahiyan, Himachal Pradesh 173229",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "30.8402921,77.0566282"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3521"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "Khasra no. 150,Main Market, Opp. Old Curcuit House, Kaza, Himachal Pradesh 172114",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.2232576,73.4573364"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3522"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "NH505,Chango Nichla, Chango Nichla, Himachal Pradesh 172112",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.2232576,73.4573364"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3523"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "1,Peo - Hospital Rd, Kothi, Reckong Peo, Himachal Pradesh 172107",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.2232576,73.4573364"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3524"
+  },
+  "Name": "India’s highest EV charging station",
+  "Location": "Spiti Valley, Himachal Pradesh",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.0587183,75.4462051"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3525"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "J5QM+J54, Leh Manali Hwy, Jispa, Himachal Pradesh 175132",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.6393749,67.9545593"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3526"
+  },
+  "Name": "LionCharge Charging Station",
+  "Location": "65VJ+VRF, Siyal, Manali, Himachal Pradesh 175131",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.6393749,67.9545593"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3527"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "PX2F+MQP, Shila Kippar, Himachal Pradesh 175124",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.6393749,67.9545593"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3528"
+  },
+  "Name": "Zevpoint Charging Station",
+  "Location": "24MH+88M, Bandrol, Himachal Pradesh 175128",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.9941007,71.997528"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3529"
+  },
+  "Name": "Sanjhapeer Automobile",
+  "Location": "Pathankot - Jalandhar Rd, N H 1, Androon damtal, Damtal, Himachal Pradesh 176403",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.9941007,71.997528"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352a"
+  },
+  "Name": "Patyal Filling Station Mandi",
+  "Location": "Shila Kipper, Mandi, NH-21, Mandi Road, Mandi",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.7018,76.9719251"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352b"
+  },
+  "Name": "Hotel Food Mania",
+  "Location": "1, near truck union, Ner Chowk, Himachal Pradesh 175008",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.6029,76.9220251"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352c"
+  },
+  "Name": "PARAMETER ENGINEERING PROJECTS",
+  "Location": "Kullu - Naggar - Manali Rd, near orchid resort, shaminala, Manali, Himachal Pradesh 175143",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.2086,77.1977251"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352d"
+  },
+  "Name": "Hotel Lords Highway Inn",
+  "Location": "Lords Highway Inn, Mandi - Pathankot Rd, Tanda, Himachal Pradesh 176001",
+  "Coordintes": "32.6393749,67.9545593",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352e"
+  },
+  "Name": "Elctric Vehicle Charging Station",
+  "Location": "2HR9+X9G, near HP Petrol Pump, Andreta, Himachal Pradesh 176103",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "32.1404709,76.1902714"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b352f"
+  },
+  "Name": "Amarnath & Sons",
+  "Location": "Amar Nath & Sons,Village Hatli Post Draman Tehsil Sihunta Distt. Chamba",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "32.2300282,76.1679135"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3530"
+  },
+  "Name": "Tata Power",
+  "Location": "Dharamshala, Himachal Pradesh",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "CCS-II",
+  "Coordinates": "32.2732908,75.8997881"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3531"
+  },
+  "Name": "S S Fuels",
+  "Location": "Vill. Samkar. P.O. Dhameta Teh. Fatehpur Distt. Kangra Vill. Samkar. P.O. Dhameta",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "32.1403784,75.6735488"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3532"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "F784+QRR, Una, Himachal Pradesh 174303",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "31.3777423,75.8575066"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3533"
+  },
+  "Name": "Electric Substation Shana",
+  "Location": "358C+6H2, Shoghi Bypass,Shimla, Shimla, Himachal Pradesh 171009",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "30.9464698,76.6059502"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3534"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "94Q8+FWH, Pangna, Himachal Pradesh 175046",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": "Unknown",
+  "connectorType": "Unknown",
+  "Coordinates": "31.3777423,75.8575066"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3535"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "VXHV+6X2, Jabli, Himachal Pradesh 173220",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "30.9464698,76.6059502"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3536"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "JW3F+3R4, Jarlu, Himachal Pradesh 175021",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "31.6884447,76.3614178"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3537"
+  },
+  "Name": "Soni Filling Station",
+  "Location": "Una, Himachal Pradesh",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "31.5423656,77.8120872"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3538"
+  },
+  "Name": "Shri Kanhaiya Lal Kisan Seva",
+  "Location": "JXM4+3R9, Chandial, Himachal Pradesh 175124",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Type-II",
+  "Coordinates": "31.632657,76.9525069"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3539"
+  },
+  "Name": "Gorsi Highway",
+  "Location": "Bali Chowki",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Unknown",
+  "Coordinates": "31.7016371,77.2585292"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353a"
+  },
+  "Name": "Ambika Filling Station",
+  "Location": "Village Bahang Manali, Shimla, Himachal Pradesh 175131",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Unknown",
+  "Coordinates": "29.2017899,71.4035567"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353b"
+  },
+  "Name": "Shahpur",
+  "Location": "Kotkhai, Shimla District",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "31.116377,77.5345624"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353c"
+  },
+  "Name": "Mohrish Filling Station",
+  "Location": "4_Miles, Chirgaon Rd, Rohru, Himachal Pradesh 171207",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": "Unknown",
+  "Coordinates": "31.2098696,77.7817657"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353d"
+  },
+  "Name": "Shiv Filling Station",
+  "Location": "Shimla-Darlaghat Road",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Unknown",
+  "Coordinates": "31.1783835,75.8397128"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353e"
+  },
+  "Name": "Sawhney Automobiles",
+  "Location": "Kandaghat,Solan, Himachal Pradesh 173215",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Unknown",
+  "Coordinates": "30.971601,77.1074205"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b353f"
+  },
+  "Name": "Ramesh Service Station",
+  "Location": "Dharampur, Himachal Pradesh 173209",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Bharat AC-001",
+  "Coordinates": "30.9024641,77.015115"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3540"
+  },
+  "Name": "Tata Power",
+  "Location": "Rosetum Kasauli, Jagjit Nagar Road, Kasauli, Solan, Himachal Pradesh, 173201",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": " [\"CCS-II\", \"Type-II\"]",
+  "Coordinates": "30.9053561,76.9788185"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3541"
+  },
+  "Name": "Maa Baglamukhi",
+  "Location": "Bakroa,Shimla-Kangra Rd, Awari, Awari Khalihn, Himachal Pradesh 174024",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Type-II",
+  "Coordinates": "31.3998341,76.7361501"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3542"
+  },
+  "Name": "Sonia Filling Station",
+  "Location": "Sonia Filling Station,Daulatpur On Daulatpur-Talwara Roa Tehsil Amb District Una Tehsil Amb District Una",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": [
+    "Bharat AC-001",
+    "Type-II"
+  ],
+  "Coordinates": "31.7817485,75.984791"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3543"
+  },
+  "Name": "Electric Vehicle Charging Station",
+  "Location": "BALH, VILL BAGLA P.O GUTKAR TEH, DISTT, Himachal Pradesh 175021",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 2,
+  "connectorType": [
+    "Bharat AC-001",
+    "Type-II"
+  ],
+  "Coordinates": "31.6229825,76.3600445"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3544"
+  },
+  "Name": "IndianOil e-Charge Station",
+  "Location": "Ward no. 1 village Dilwan PO Diara Teh Amb, distt, Una, Himachal Pradesh 174316",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "CCS-II",
+  "Coordinates": "31.6006583,76.1751562"
+},
+{
+  "_id": {
+    "$oid": "6549fcd8d4d9c557aa9b3545"
+  },
+  "Name": "Goodwill Petrol Station",
+  "Location": "976C+QM9, Una, Himachal Pradesh 174301",
+  "ChargingDetails": "Unknown",
+  "Network": "Unknown",
+  "NumberOfConnectors": 1,
+  "connectorType": "Bharat AC-001",
+  "Coordinates": "31.927078,72.2008494"
+}]
